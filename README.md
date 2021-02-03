@@ -2,6 +2,9 @@
 
 Written in PHP (first time I have tried writing anything PHP) as an address to alchemy's current framework.
 
+There is a sql dump file added (ships.sql)
+The sql connection string in the php files would need to be updated to connect for your setup.
+
 1) List all the spaceships allowing filtering by name, class, status
 
      File: apitest1.php 
