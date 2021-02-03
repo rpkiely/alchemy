@@ -16,7 +16,7 @@ The sql connection string in the php files would need to be updated to connect f
      
      File: apitest2.php
            id must be passed, e.g. apitest2.php?id=1 .
-           The json repsonse structure is incorrect (the armaments array is appended to the array instead of inserted, lack of experience with PHP)
+           The json response structure is incorrect (the armaments array is appended to the array instead of inserted, lack of experience with PHP)
            
            
 3) HTML Page : ran out of time.
